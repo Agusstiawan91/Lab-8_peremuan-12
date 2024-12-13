@@ -13,3 +13,12 @@ Class DaftarNilaiMahasiswa:
   4. Method hapus(nama): Menghapus data mahasiswa berdasarkan nama yang diberikan.
 
   5. Method ubah(nama): Mengubah nilai mahasiswa berdasarkan nama yang diberikan.
+
+# Diagram 
+![Teks Alternatif](Diagram_lab8.png)
+
+# Flowchart
+![Teks Alternatif](flowchart_lab8.png)
+
+# Screenshot
+![Teks Alternatif](ss_lab8.png)
